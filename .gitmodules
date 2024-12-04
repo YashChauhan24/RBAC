@@ -1,0 +1,4 @@
+[submodule "models"]
+	path = models
+	url = https://github.com/dreamsinternational/bayutmodels.git
+	branch = main
